@@ -47,7 +47,7 @@ public class MainActivity extends Activity
 		Log.i(myTag, "OnCreate()");
 		
 		
-		
+		// for a button
 
 		b1.setOnClickListener(new OnClickListener()
 		{
